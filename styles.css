@@ -1,1 +1,22 @@
 /* your code */
+table{
+	width: 100%;
+	border-spacing: 0;
+}
+th{
+	background: #215a8e;
+	color: #ffffff;
+	font-size: 15px;
+	padding: 5px;
+}
+.bg-white td{
+	background: #ffffff;
+	color: #000000;
+	text-align: center;
+padding: 5px;	
+}
+.bg-grey td{
+	background: #ededed;
+	padding: 5px;color: #000000;
+	text-align: center;
+}
